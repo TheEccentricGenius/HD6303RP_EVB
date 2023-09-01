@@ -1,5 +1,5 @@
 # HD6303RP_EVB
-## NOTE: PLEASE provide info about the HD6303RPs background.
+## NOTE: PLEASE provide info about the HD6303RP background.
 
 A variant of the HD6303EVB by Ken Willmott.
 
